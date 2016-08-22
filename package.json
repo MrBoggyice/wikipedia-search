@@ -1,0 +1,19 @@
+{
+  "name": "wikipedia-search",
+  "version": "1.0.0",
+  "description": "A command line wikipedia search with api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBoggyice/wikipedia-search.git"
+  },
+  "author": "fortune",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrBoggyice/wikipedia-search/issues"
+  },
+  "homepage": "https://github.com/MrBoggyice/wikipedia-search#readme"
+}
