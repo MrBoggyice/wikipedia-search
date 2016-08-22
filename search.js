@@ -13,7 +13,7 @@ rl.question('Search for something? ', (answer) => {
 
     request.post(url, function (error, response, body) {
     if (!error && response.statusCode == 200) {
-        console.log(JSON.parse(response.body), url);
+        console.log(JSON.parse(response.body)[1]);
     }
 })
 
